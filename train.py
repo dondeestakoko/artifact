@@ -1,6 +1,8 @@
 """
 Script d'entraînement du modèle Iris
 Version améliorée avec meilleure évaluation
+- Utilise RandomForest avec 100 estimators
+- Évaluation complète avec metrics
 """
 
 from sklearn.datasets import load_iris
