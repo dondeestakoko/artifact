@@ -1,5 +1,6 @@
 """
 Script d'entraînement du modèle Iris
+Version améliorée avec meilleure évaluation
 """
 
 from sklearn.datasets import load_iris
