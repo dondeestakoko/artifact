@@ -6,7 +6,7 @@ import os
 app = FastAPI(
     title="Iris Prediction API",
     description="API pour prédire l'espèce d'iris",
-    version="1.0.0"
+    version="1.1.0"  # Version bump for deployment
 )
 
 # Charger le modèle entraîné
